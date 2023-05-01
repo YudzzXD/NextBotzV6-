@@ -2,7 +2,7 @@ import fetch from 'node-fetch'
 
 //Plugin By Xynoz!!
 let handler = async (m, { conn, usedPrefix }) => {
-  const ultah = new Date('Februari 02 2023 00:00:01')
+  const ultah = new Date('Februari 06 2024 00:00:01')
     const sekarat = new Date().getTime() 
     const Kurang = ultah - sekarat
     const ohari = Math.floor( Kurang / (1000 * 60 * 60 * 24));
@@ -12,12 +12,12 @@ let handler = async (m, { conn, usedPrefix }) => {
   let vn = `./mp3/Play-Date-Melanie-Martinez-Cover-by-#U90a2#U51ef#U60a6XKY.opus`
   conn.sendButton(m.chat, `
 ┏━ꕥ〔 *Donasi • Dana* 〕ꕥ━⬣
-┃✾ Gopay  [082214729677]
-┃✾ Dana  [082214729677]
-┃✾ Saweria  [https://saweria.co/PutraModz]
+┃✾ Gopay  [085840104297]
+┃✾ Dana  [087748217883]
+┃✾ Owner [https://wahyudiid.w3spaces.com]
 ┗━━━━ꕥ
 ┏━━ꕥ〔 *NOTE* 〕ꕥ━⬣
-┃ Ingin donasi? Wa.me/6282214729677
+┃ Ingin donasi? Wa.me/6285840104297
 ┃ _Hasil donasi akan digunakan buat sewa_
 ┃ _atau beli *RDP/VPS* agar bot bisa jalan_
 ┃ _24jam tanpa kendala_
